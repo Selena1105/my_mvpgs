@@ -8,9 +8,6 @@ tensorboard_3d
 screenshots
 pretrained/*
 data
-scripts
-submodules
-lpipsPytorch
 environment.yml
 wandb
 mvpgs_data
