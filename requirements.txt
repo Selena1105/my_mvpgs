@@ -1,0 +1,14 @@
+opencv-python
+timm==0.9.12
+matplotlib
+omegaconf
+simple-lama-inpainting==0.1.0
+scikit-image
+lpips==0.1.4
+submodules/diff-gaussian-rasterization
+submodules/simple-knn
+tqdm
+wandb
+plyfile
+
+# pip install torch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 --index-url https://download.pytorch.org/whl/cu117

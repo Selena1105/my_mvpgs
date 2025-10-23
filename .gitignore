@@ -1,0 +1,17 @@
+*.pyc
+.vscode
+output*
+build
+diff_rasterization/diff_rast.egg-info
+diff_rasterization/dist
+tensorboard_3d
+screenshots
+pretrained/*
+data
+scripts
+submodules
+lpipsPytorch
+environment.yml
+wandb
+mvpgs_data
+gaussian_renderer
