@@ -11,4 +11,3 @@ data
 environment.yml
 wandb
 mvpgs_data
-gaussian_renderer
